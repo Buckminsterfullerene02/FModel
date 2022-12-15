@@ -4,3 +4,6 @@
 [submodule "EpicManifestParser"]
 	path = EpicManifestParser
 	url = https://github.com/FModel/EpicManifestParser
+[submodule "FBX-Wrapper"]
+	path = FBX-Wrapper
+	url = https://github.com/Buckminsterfullerene02/FBX-Wrapper.git
